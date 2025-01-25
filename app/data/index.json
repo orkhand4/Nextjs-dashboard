@@ -4,22 +4,22 @@
       "id": 1,
       "name": "BMW X5",
       "year": 2022,
-      "color": "Qara",
-      "image": "https://example.com/bmw-x5.jpg"
+      "color": "Yaşıl",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2024-bmw-x5-m60i-102-6602d48787fb7.jpg?crop=0.790xw:0.591xh;0.103xw,0.214xh&resize=1200:*"
     },
     {
       "id": 2,
       "name": "Mercedes-Benz C-Class",
       "year": 2023,
-      "color": "Ağ",
-      "image": "https://example.com/mercedes-c-class.jpg"
+      "color": "Qara",
+      "image": "https://www.topgear.com/sites/default/files/2021/11/Mercedes_C300D_0000.jpg"
     },
     {
       "id": 3,
       "name": "Tesla Model S",
       "year": 2021,
       "color": "Qırmızı",
-      "image": "https://example.com/tesla-model-s.jpg"
+      "image": "https://www.formulaimports.com/imagetag/2251/main/l/Used-2022-Tesla-MODEL-S-PLAID-SEDAN-AUTOPILOT-NAV-SUNROOF-PREM-SND-CAMERA-1657568849.jpg"
     }
   ]
 }
